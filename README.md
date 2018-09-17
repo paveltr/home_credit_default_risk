@@ -15,7 +15,7 @@ I took 31st place (top 1%).
 Solution
 ---------------------
 
-My models is a stack of 4 models by logistic regression:
+My model is a stack of 4 models by logistic regression:
 
 - open solution with seed 0 from https://github.com/neptune-ml/open-solution-home-credit
 - open solution with seed 90210 from https://github.com/neptune-ml/open-solution-home-credit
