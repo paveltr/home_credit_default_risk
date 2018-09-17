@@ -5,7 +5,7 @@ Description
 =============
 
 Home Credit Default Risk was the biggest Kaggle competition ever. It lasted for 3 months and 7198 teams took a part.
-Some details https://www.kaggle.com/c/home-credit-default-risk/discussion/66010
+\nSome details https://www.kaggle.com/c/home-credit-default-risk/discussion/66010
 
 Result
 ---------------------
